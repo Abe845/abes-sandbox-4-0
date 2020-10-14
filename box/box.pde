@@ -5,10 +5,10 @@ Boolean turnOnYellow=false, turnOnPink=false, turnOnBrown=false;
 float ptDiameter, rectWidth, rectHeight;
 float[] ptX = new float[17]; //index zero not counted, left as null here
 float[] ptY = new float[17];
-float[] buttonX = new float[5]; 
-float[] buttonY = new float[5];
-float[] buttonWidth = new float[5];
-float[] buttonHeight = new float[5];
+float[] buttonX = new float[9]; 
+float[] buttonY = new float[9];
+float[] buttonWidth = new float[9];
+float[] buttonHeight = new float[9];
 //float pt5X, pt5Y, pt6X, pt6Y, pt7X, pt7Y, pt8X, pt8Y;
 //float pt9X, pt9Y, pt10X, pt10Y, pt11X, pt11Y, pt12X, pt12Y;
 //float pt13X, pt13Y, pt14X, pt14Y, pt15X, pt15Y, pt16X, pt16Y;
